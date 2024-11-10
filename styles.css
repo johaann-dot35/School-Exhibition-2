@@ -1,0 +1,51 @@
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Shadows Into Light', cursive;
+
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  margin-bottom: 0;
+}
+
+h2{
+
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+
+main{
+    text-align: right;
+}
+
+main{
+    text-align: left;
+}
+
+main{
+    text-align: right;
+}
+
+main{
+    text-align: left;
+}
+
+footer{
+    text-align: right; 
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+text-align: center;
+
+}
